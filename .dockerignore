@@ -1,0 +1,19 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+node_modules
+
+# Environment and config files
+.env
+*.config.js
+
+# Editor directories
+.vscode
+.idea
+
+# Git files
+.git
+.gitignore
